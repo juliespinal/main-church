@@ -58,7 +58,7 @@ html{
   font-size: 2rem;
   font-weight: 600;
   line-height: 1.4;
-  margin-bottom: 1rem;
+  margin-bottom: 4rem;
  } 
 
 .formulario-nuevo .boton {
@@ -1048,7 +1048,7 @@ html{
   
   video {
     width: 130%;
-    left: -15%;
+    left: -15%
   }
   
   @media (min-width:500px) {
